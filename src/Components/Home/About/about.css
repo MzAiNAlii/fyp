@@ -1,0 +1,41 @@
+.about__section{
+  padding-bottom: 5%;
+  background-color:  #fdf8f8;
+  color: rgb(8, 8, 8);
+}
+
+
+.section__title{
+  font-family: 'Mr Dafoe', cursive;
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-family: 'Seaweed Script', cursive;
+  font-size: 40px;
+  color: rgb(65, 179, 84);
+  padding-top: 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.about__content{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 2rem;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.about__data {
+  padding-top: 3rem;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+
+
+
+
+
+
+
+

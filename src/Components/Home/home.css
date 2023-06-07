@@ -1,0 +1,18 @@
+.home__data{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(16, 189, 102);
+    color: #fdf8f8;
+    padding-top: 10%;
+}
+
+.home__title{
+    font-size: 300%;
+    padding-left: 40%;
+}
+
+.home__subtitle{
+    padding-left: 34%;
+    font-size: 150%;
+}

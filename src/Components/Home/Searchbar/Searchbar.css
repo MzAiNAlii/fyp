@@ -1,0 +1,24 @@
+.form__conatiner {
+    padding-left: 25%;
+    padding-top: 3%;
+    padding-right: 15%;
+}
+
+.form__conatiner input {
+    width: 500px;
+    height: 70px;
+    background-color: white;
+    color : rgb(11, 112, 75);
+    border: solid rgb(11, 112, 75);
+}
+
+.form__conatiner button{
+    width: 150px;
+    height: 69px;
+    background-color: rgb(31, 184, 107);
+    color: white;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 5%;
+    border: solid rgb(11, 112, 75);
+}
